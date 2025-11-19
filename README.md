@@ -2,8 +2,7 @@
 
 A simple and clean task-management application built using **React**, **Vite**, and **Bootstrap CSS**.
 
-## 🚀 Demo
-(Add your deployed link here if available)
+
 
 ## 🛠️ Tech Stack
 - React
