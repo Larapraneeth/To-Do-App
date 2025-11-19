@@ -1,6 +1,6 @@
 # To-Do-App
 
-A simple and clean task-management application built using **React**, **Vite**, and **Tailwind CSS**.
+A simple and clean task-management application built using **React**, **Vite**, and **Bootstrap CSS**.
 
 ## 🚀 Demo
 (Add your deployed link here if available)
