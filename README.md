@@ -1,16 +1,75 @@
-# React + Vite
+# To-Do-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean task-management application built using **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Demo
+(Add your deployed link here if available)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- ESLint
 
-## React Compiler
+## 🎯 Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Responsive UI design
+- Fast development environment with Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📁 Project Structure
 
-## Expanding the ESLint configuration
+```
+To-Do-App/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── tailwind.config.js
+├── vite.config.js
+├── package.json
+└── package-lock.json
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Larapraneeth/To-Do-App.git
+cd To-Do-App
+```
+
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Start Development Server
+```bash
+npm run dev
+```
+
+Vite will show you a URL like:
+```
+http://localhost:5173
+```
+
+Open it in your browser.
+
+## 🔧 Build for Production
+```bash
+npm run build
+```
+This generates optimized output in the `dist/` folder.
+
+## 🤝 Contributing
+Feel free to open issues, suggest features, or submit pull requests.
+
+## 📄 License
+You can specify your license here (e.g., MIT License).
