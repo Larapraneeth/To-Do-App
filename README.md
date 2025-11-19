@@ -7,7 +7,7 @@ A simple and clean task-management application built using **React**, **Vite**, 
 ## 🛠️ Tech Stack
 - React
 - Vite
-- Tailwind CSS
+
 - JavaScript
 - ESLint
 
